@@ -30,7 +30,7 @@ Packages will be coming soon.
 
 From a git checkout:
   
-    make install
+    sudo python setup.py install
     awx-cli --help
 
 Usage
